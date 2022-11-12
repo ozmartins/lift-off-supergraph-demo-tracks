@@ -8,14 +8,14 @@
     "dev": "nodemon src/index"
   },
   "dependencies": {
-    "@apollo/subgraph": "^2.0.5",
+    "@apollo/subgraph": "^2.1.4",
     "apollo-datasource-rest": "^0.11.0",
     "apollo-server": "^3.10.0",
     "graphql": "^16.5.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   },
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT",
